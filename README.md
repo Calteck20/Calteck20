@@ -21,7 +21,7 @@ I build mobile & desktop apps end to end — design, Flutter frontend, Python ba
 </a>
 
 **[Argos AI](https://github.com/Calteck20/argos-ai)** — an AI coach that turns any goal into a step-by-step plan with daily tasks, reviews your photo/audio reports and adapts to your energy.
-iPhone · Mac · Windows · Android soon · 10 languages
+[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/argos-ai-goal-coach/id6821904224) · iPhone · Mac · Windows · Android soon · 10 languages
 
 ## 🛠 Stack
 
